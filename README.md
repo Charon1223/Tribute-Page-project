@@ -3,7 +3,7 @@
 # 세번째 개인 프로젝트 
 
 * 제작기간 하루 (약 4시간 소요)
-* 
+
 <p align="center"><br>
 <img src="https://user-images.githubusercontent.com/100138165/156535198-d9ba554a-ad54-4f2a-a650-a9e658f914ef.png" alt="example_1" width="50%" height="50%"/>
  <br>
